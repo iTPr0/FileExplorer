@@ -6,13 +6,13 @@ div.dx-filemanager-dialog-delete-item > div {
 
 #file-manager {
 	width: 70%;
-	height: 40rem;
+	height: 30rem;
 	margin-right: auto;
 	margin-left: auto;
 }
 
 .dx-theme-generic-typography {
-	margin-top: 15rem;
+	margin-top: 9rem;
 }
   
 @media (max-width: 768px) {
